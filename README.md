@@ -1,4 +1,4 @@
-# Talkative_Docs
+# Talkative_Docs 話
 
 Talkative_Docs is a project designed to facilitate question answering (QA) over large textual documents using advanced language models and embeddings. This README will guide you through setting up and using the code provided in this repository.
 
